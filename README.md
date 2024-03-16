@@ -1,10 +1,10 @@
 # Sign Language Detection
 
 # Detecting Thanks
-![alt text](https://github.com/Concerned-Doggo/SignLangDetection/blob/master/thanks.jpeg)
+![thanks](https://github.com/Concerned-Doggo/SignLangDetection/blob/master/images/thanks.jpeg)
 
 # Detecting Yes
-![alt text](https://github.com/Concerned-Doggo/SignLangDetection/blob/master/yes.png)
+![yes](https://github.com/Concerned-Doggo/SignLangDetection/blob/master/images/yes.png)
 
 # Loading Mediapipe Holistic model
-![alt text](https://github.com/Concerned-Doggo/SignLangDetection/blob/master/mediapipe.jpeg)
+![mediapipe model](https://github.com/Concerned-Doggo/SignLangDetection/blob/master/images/mediapipe.png)
