@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mediapipe/tasks-vision": "^0.10.12",
+    "http-server": "^14.1.1"
+  }
+}
